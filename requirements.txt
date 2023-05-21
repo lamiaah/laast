@@ -67,7 +67,6 @@ PyYAML==6.0
 regex==2023.3.23
 requests==2.21.0
 requests-oauthlib==1.2.0
-responses==0.18.0
 scikit-learn==1.2.2
 scipy==1.10.1
 shap==0.41.0
@@ -88,7 +87,7 @@ tqdm==4.65.0
 transformers==4.28.1
 typing_extensions==4.5.0
 tzdata==2023.3
-urllib3
+urllib3==1.21.1
 virtualenv==20.21.0
 xxhash==3.2.0
 yarl==1.9.2
